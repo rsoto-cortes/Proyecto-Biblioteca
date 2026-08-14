@@ -1,51 +1,106 @@
 LB003,Cien Anos de Soledad,Gabriel Garcia Marquez,Realismo Magico
+
 LB004,Don Quijote de la Mancha,Miguel de Cervantes,Novela
+
 LB006,El Senor de los Anillos,J.R.R. Tolkien,Fantasia
+
 LB007,Crimen y Castigo,Fiodor Dostoyevski,Novela
+
 LB009,Matar a un Ruisenor,Harper Lee,Novela
+
 LB010,El Gran Gatsby,F. Scott Fitzgerald,Novela
+
 LB011,Moby Dick,Herman Melville,Aventura
+
 LB012,Frankenstein,Mary Shelley,Terror
+
 LB013,Drácula,Bram Stoker,Terror
+
 LB014,El Retrato de Dorian Gray,Oscar Wilde,Novela
+
 LB015,La Metamorfosis,Franz Kafka,Ficcion
+
 LB016,Ulises,James Joyce,Novela
+
 LB017,En Busca del Tiempo Perdido,Marcel Proust,Novela
+
 LB018,La Divina Comedia,Dante Alighieri,Poesia
+
 LB019,Hamlet,William Shakespeare,Teatro
+
 LB020,Romeo y Julieta,William Shakespeare,Teatro
+
 LB021,El Conde de Montecristo,Alejandro Dumas,Aventura
+
 LB022,Los Miserables,Victor Hugo,Novela
+
 LB023,El Extranjero,Albert Camus,Novela
+
 LB024,La Peste,Albert Camus,Novela
+
 LB025,El Nombre de la Rosa,Umberto Eco,Novela
+
 LB026,La Sombra del Viento,Carlos Ruiz Zafon,Novela
+
 LB027,El Juego de Ender,Orson Scott Card,Ciencia Ficcion
+
 LB028,Dune,Frank Herbert,Ciencia Ficcion
+
 LB029,Fundacion,Isaac Asimov,Ciencia Ficcion
+
 LB030,Yo Robot,Isaac Asimov,Ciencia Ficcion
+
 LB031,El Problema de los Tres Cuerpos,Liu Cixin,Ciencia Ficcion
+
 LB032,La Guerra de los Mundos,H.G. Wells,Ciencia Ficcion
+
 LB033,El Hombre Invisible,H.G. Wells,Ciencia Ficcion
+
 LB034,La Maquina del Tiempo,H.G. Wells,Ciencia Ficcion
+
 LB035,El Mundo Perdido,Arthur Conan Doyle,Aventura
+
 LB036,La Isla del Tesoro,Robert Louis Stevenson,Aventura
+
 LB037,Las Aventuras de Tom Sawyer,Mark Twain,Novela
+
+
 LB038,Las Aventuras de Huckleberry Finn,Mark Twain,Novela
+
 LB039,El Viejo y el Mar,Ernest Hemingway,Novela
+
 LB040,Por Quien Doblan las Campanas,Ernest Hemingway,Novela
+
 LB041,El Amor en los Tiempos del Colera,Gabriel Garcia Marquez,Novela
+
 LB042,La Casa de los Espiritus,Isabel Allende,Novela
+
 LB043,Como Agua para Chocolate,Laura Esquivel,Novela
+
 LB044,La Ciudad de las Bestias,Isabel Allende,Aventura
+
 LB045,El Alquimista,Paulo Coelho,Novela
+
 LB046,El Codigo Da Vinci,Dan Brown,Suspenso
+
 LB047,Los Pilares de la Tierra,Ken Follett,Historica
+
 LB048,El Perfume,Patrick Suskind,Novela
+
 LB049,La Chica del Tren,Paula Hawkins,Suspenso
+
 LB051,La Teoria de Kim,Jay Sandoval,Ciencia Ficcion
+
 LB005,El Hobbit,J.R.R. Tolkien,Fantasia
+
 LB002,1984,George Orwell,Ciencia Ficcion,DISPONIBLE
+
 LB001,El Principito,Antoine de Saint-Exupery,Novela,DISPONIBLE
+
 LB008,Orgullo y Prejuicio,Jane Austen,Novela,DISPONIBLE
+
 LB052,Alas de Sangre,Rebecca Yarros,Fantasia Romantica,DISPONIBLE
+
+LB053,IT,Stephen King,Terror,DISPONIBLE
+
+LB054,Cementerio de Animales,Stephen King,Terror,DISPONIBLE

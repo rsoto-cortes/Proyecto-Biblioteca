@@ -16,7 +16,7 @@ El sistema permite:
 
 ## Funcionalidades principales
 
-### 1. Registro de libros
+1. Registro de libros
 Se pueden ingresar datos como:
 - Código
 - Título
@@ -25,27 +25,27 @@ Se pueden ingresar datos como:
 
 Los libros se guardan en el archivo `libros.txt` con su estado actual.
 
-### 2. Búsqueda de libros
+2. Búsqueda de libros
 El sistema permite buscar un libro por su código y mostrar información como:
 - Título
 - Autor
 - Género
 - Estado (disponible o rentado)
 
-### 3. Préstamos y devoluciones
+3. Préstamos y devoluciones
 Los libros pueden ser movidos entre los archivos:
 - `libros.txt` para libros disponibles
 - `renta_libros.txt` para libros rentados
 
 Esto permite llevar un control del estado de cada volumen.
 
-### 4. Recomendaciones
+4. Recomendaciones
 El proyecto cuenta con un gestor de recomendaciones basado en un grafo:
 - Conexiones entre libros con el mismo autor
 - Conexiones entre libros del mismo género
 - Visualización de recomendaciones por código, autor o género
 
-### 5. Estructuras de datos
+5. Estructuras de datos
 El proyecto integra distintas estructuras personalizadas:
 - Lista enlazada
 - Árbol binario de búsqueda

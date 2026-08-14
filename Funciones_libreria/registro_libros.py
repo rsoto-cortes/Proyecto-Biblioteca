@@ -67,7 +67,7 @@ class registro:
     @staticmethod
     def guardar_en_archivo(book, filename=LIBROS_FILE):
         with open(filename, 'a', encoding='utf-8') as f:
-            f.write(str(book) + ',DISPONIBLE\n')
+            f.write('\n' + str(book) + ',DISPONIBLE\n')
 
     @staticmethod
     def buscar_libro(codigo, filename=LIBROS_FILE):
